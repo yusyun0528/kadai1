@@ -1,0 +1,33 @@
+* {
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  background-color: red;
+  height: 50px;
+}
+
+.top {
+  height: 500px;
+  width: 100%;
+  background-color: orange;
+}
+
+main {
+  background-color: palegreen;
+  height: 1400px;
+  width: 960px;
+}
+
+.center {
+  background-color: limegreen;
+  width: 500px;
+  height: 100%;
+}
+
+footer {
+  background-color: blue;
+  height: 100px;
+}

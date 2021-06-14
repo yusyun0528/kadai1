@@ -1,0 +1,33 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+main {
+  width: 100%;
+  
+}
+
+.photo {
+  height: 200px;
+  width: 100%;
+  background-position: center;
+  background-size: cover;
+}
+
+.spring {
+  background-image: url(img/box1.jpg);  
+}
+
+.summer {
+  background-image: url(img/box2.jpg);
+}
+
+.autumn {
+  background-image: url(img/box3.jpg);
+}
+
+.winter {
+  background-image: url(img/box4.jpg);
+}
